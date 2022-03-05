@@ -1,0 +1,1 @@
+g++ -fPIC -shared -o lib/libpoint3d.so lib/point3d.cpp
